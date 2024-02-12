@@ -1,0 +1,28 @@
+.a{
+    background-color:rgb(81, 78, 57) ;
+    display: flex;
+    justify-content: space-between;
+}
+.c ul{
+    display: flex;
+    list-style: none;
+    justify-content:space-between;
+    margin: 10px;
+    text-decoration: underline;
+    gap: 30px;
+}
+.b{
+    display: flex;
+    color: #ad1b1b;
+    margin-left: 10px;
+    justify-content: space-between;
+    gap: 10px;
+}
+li{
+    margin: 10px,15px;
+    color: aquamarine;
+    height: 100px;
+    text-decoration: underline;
+    justify-content: space-between;
+    gap: 10px;
+}
